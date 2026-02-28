@@ -132,9 +132,9 @@ experience:
         + Managed the development of the course by creating roadmaps, having daily stand-ups, and using GitHub projects. Actively collaborate with colleagues to have the course ready in 2 months.
         + Hired program TAs and instructors.
 
-    - company: Beamdata
+    - company: Weclouddata
       link:
-      tags: Contract
+      tags: Full-time
       date: February 2022 - March 2025
       role: Data Engineer | DevOps Engineer
       location: Toronto, Canada
@@ -148,9 +148,9 @@ experience:
         + Established CI/CD pipelines with GitHub Actions to enhance developer efficiency.
         + Documented development and configuration processes for future reference and consistency.
 
-    - company: Beamdata
+    - company: Weclouddata
       link:
-      tags: Contract
+      tags: Full-time
       date: July 2024 - November 2024
       role: DevOps Engineer
       location: Toronto, Canada
@@ -162,9 +162,9 @@ experience:
         + Tested and containerized a chatbot application, and delivered it to the client.
         + Scanning the tokens and secrets in the GitHub organization of the client with Trufflehog.
 
-    - company: Beamdata
+    - company: Weclouddata
       link:
-      tags: Contract
+      tags: Full-time
       date: November 2022 - March 2023
       role: DevOps Engineer
       location: Toronto, Canada
@@ -178,9 +178,9 @@ experience:
         + Implemented self-healing capabilities for the application by utilizing AWS Auto Scaling groups.
         + Infrastructure configuration and maintenance.
 
-    - company: Beamdata
+    - company: Weclouddata
       link:
-      tags: Contract
+      tags: Full-time
       date: November 2020 - November 2021
       role: Data Engineer Consultant | Machine Learning Engineer
       location: Toronto, Canada
@@ -284,7 +284,6 @@ skill:
         - Go
         - SQL
         - Bash
-        - Git
         - JavaScript
         - HTML
         - CSS
@@ -300,6 +299,7 @@ skill:
         - ArgoCD
         - Cert-manager
         - NGINX
+        - Git
     - name: Data & Analytics
       item:
         - Apache Airflow
